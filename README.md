@@ -144,7 +144,7 @@ python scripts/06_final_dashboard.py
 | Script | Analysis | Key Output |
 |--------|----------|------------|
 | `01` | Parse MetaPhlAn profiles, build abundance matrix | 5×109 species matrix |
-| `02` | Spearman co-occurrence network (|r|≥0.9) | Network graph, hub & keystone species |
+| `02` | Spearman co-occurrence network (&#124;r&#124; ≥ 0.9) | Network graph, hub & keystone species |
 | `03` | PCA microbiome fingerprinting | 3-panel PCA figure, species loadings |
 | `04` | Download & filter HMP2 merged table to 50 samples | 50×578 species matrix |
 | `05` | Random Forest LOOCV + 5-fold CV, IBD vs nonIBD | AUC comparison table, ROC curves |

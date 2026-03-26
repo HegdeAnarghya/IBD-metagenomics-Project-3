@@ -1,0 +1,5 @@
+Model	AUC	n_samples	Method
+Project 1 (16S, n=1233)	0.894	1233	Random Forest
+Project 2 (WGS, n=5)	0.0	5	Random Forest LOOCV
+Project 3 (WGS, n=50) LOOCV	0.606029106029106	50	Random Forest LOOCV
+Project 3 (WGS, n=50) 5-fold	0.7297297297297298	50	Random Forest 5-fold CV

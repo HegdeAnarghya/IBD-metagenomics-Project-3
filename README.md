@@ -15,7 +15,7 @@ This project directly addresses the core limitation of Project 2 (n=5): expandin
 | Metric | Value |
 |--------|-------|
 | Network nodes (species) | 49 |
-| Network edges (|r| ≥ 0.9) | 82 |
+| Network edges (&#124;r&#124; ≥ 0.9) | 82 |
 | Top hub species | *Ruminococcus gnavus*, *Bacteroides xylanisolvens* |
 | Top keystone bridge species | *Parasutterella excrementihominis*, *Dorea longicatena* |
 | PCA variance explained (PC1–3) | 86.3% |
